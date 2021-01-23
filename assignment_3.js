@@ -1,4 +1,4 @@
-// link
+// https://github.com/Mehedi834/Assignment_3
 
 // ১. kilometerToMeter Convert --
 
@@ -10,7 +10,7 @@ var convertMeter = kilometerToMeter(3);
 console.log(convertMeter)
 
 
-//budgetCalculator
+// ২. budgetCalculator
 
 //  ৩. hotelCost Nirnoy --
 
@@ -60,9 +60,9 @@ console.log(megaFriend(bestFriend));
 
 
 
-// function budgetCalculator[2, 2, 2]{
-// var result = 2 + 2 + 2;
-// return result;
-// }
-// var totalTaka = budgetCalculator(50, 100, 500);
-// console.log(totalTaka);
+function budgetCalculator[2, 2, 2]{
+var result = 2 + 2 + 2;
+return result;
+}
+var totalTaka = budgetCalculator(50, 100, 500);
+console.log(totalTaka);
