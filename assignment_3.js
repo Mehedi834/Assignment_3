@@ -11,7 +11,13 @@ console.log(convertMeter)
 
 
 // ২. budgetCalculator
-
+function budgetCalculator[2, 2, 2]{
+    var result = 2 + 2 + 2;
+    return result;
+    }
+    var totalTaka = budgetCalculator(50, 100, 500);
+    console.log(totalTaka);
+    
 //  ৩. hotelCost Nirnoy --
 
 function hotelCost(days) {
@@ -60,9 +66,3 @@ console.log(megaFriend(bestFriend));
 
 
 
-function budgetCalculator[2, 2, 2]{
-var result = 2 + 2 + 2;
-return result;
-}
-var totalTaka = budgetCalculator(50, 100, 500);
-console.log(totalTaka);
